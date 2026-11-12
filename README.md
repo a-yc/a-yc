@@ -1,14 +1,14 @@
-<h1 align="center">print("Hey there, my name is Ata!") 👋 </h1>
+<h1 align="center">print("Hey!") 👋 </h1>
 <h3 align="center">🚀 Aspiring Dev | HS Student | Self-taught (mostly)  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://i.pinimg.com/1200x/da/b2/fa/dab2faf0d338d0a311a8ac267ece57be.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 Who am I? </h3>
 
-  - 🤔 &nbsp; Making whatever I feel like
-  - 🎓 &nbsp; Studying Computer Science
-  - 💼 &nbsp; Currently working on my project CLARITY
-  - 🌱 &nbsp; I want money  
+  - Making whatever I feel like
+  - Studying Computer Science
+  - Currently working on my project CLARITY
+  - I want money  
 </div> 
 </div>
 
