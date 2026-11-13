@@ -7,7 +7,7 @@
 
   - Making whatever I feel like
   - Studying Computer Science
-  - Currently working on my project CLARITY
+  - Currently working on my project [clarity](https://github.com/a-yc/Clarity-FFI)
   - I want money  
 </div> 
 </div>
